@@ -12,13 +12,13 @@ Criação de aplicação que permite ao usuário inserir nomes de amigos em uma 
 
 1. Clone o repositório em https OU ssh:
     ```bash
-    git clone https://github.com/eudaani/challenge-amig-secreto.git
+    git clone https://github.com/eudaani/challenge-amigo-secreto.git
     
-    git clone git@github.com:eudaani/challenge-amig-secreto.git
+    git clone git@github.com:eudaani/challenge-amigo-secreto.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd challenge-amig-secreto
+    cd challenge-amigo-secreto
     ```
 3. Abra o arquivo `index.html` no seu navegador para usar a aplicação.
 
